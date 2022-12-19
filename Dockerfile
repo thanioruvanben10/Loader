@@ -11,6 +11,7 @@ RUN apt -qq install -y --no-install-recommends \
     gnupg2 \
     unzip \
     wget \
+    rename \
     ffmpeg
 
 # install chrome
